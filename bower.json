@@ -1,0 +1,23 @@
+{
+  "name": "proDEV",
+  "authors": [
+    "Olivier Parent <olivier.parent@arteveldehs.be>"
+  ],
+  "description": "Bachelor in de grafische en digitale media, multimediaproductie, proDEV",
+  "main": "",
+  "moduleType": [],
+  "license": "Apache License, version 2.0",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "reveal.js": "~3.1.0",
+    "font-awesome": "fontawesome#~4.4.0"
+  }
+}

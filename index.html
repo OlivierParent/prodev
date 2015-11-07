@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <title>Multimediaproductie proDEV | Bachelor in de grafische en digitale media</title>
+    <meta name="description" content="Bachelor in de grafische en digitale media, multimediaproductie, proDEV">
+    <meta name="author" content="Arteveldehogeschool, Olivier Parent">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+    <link rel="stylesheet" href="vendor/reveal.js/css/reveal.css">
+    <link rel="stylesheet" href="vendor/reveal.js/css/theme/night.css">    
+    <link rel="stylesheet" href="styles/css/artevelde.css">
+</head>
+
+<body>
+    <div class="reveal">
+        <div class="slides">
+            <section>
+                <section data-markdown="./pages/0-00_gdm.md"></section>
+                <section data-markdown="./pages/0-01_multimediaproductie.md"></section>
+            </section>
+
+            <section data-background="red">
+                <section data-markdown="./pages/A-00_eerste-schijf.md"></section>
+            </section>
+
+            <section data-background="green">
+                <section data-markdown="./pages/B-00_tweede-schijf.md"></section>
+            </section>
+
+            <section data-background="blue">
+                <section data-markdown="./pages/C-00_derde-schijf.md"></section>
+            </section>
+        </div>
+    </div>
+    <script src="vendor/reveal.js/lib/js/head.min.js"></script>
+    <script src="vendor/reveal.js/js/reveal.js"></script>
+    <script>
+        Reveal.initialize({
+            controls: true,
+            progress: true,
+            history: true,
+            center: true,
+
+            transition: 'slide', // none/fade/slide/convex/concave/zoom
+
+            // Optional reveal.js plugins
+            dependencies: [
+                { src: 'vendor/reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+                { src: 'vendor/reveal.js/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+                { src: 'vendor/reveal.js/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+                { src: 'vendor/reveal.js/plugin/highlight/highlight.js', async: true, condition: function() { return !!document.querySelector( 'pre code' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },
+                { src: 'vendor/reveal.js/plugin/zoom-js/zoom.js', async: true },
+                { src: 'vendor/reveal.js/plugin/notes/notes.js', async: true }
+            ]
+        });
+    </script>
+</body>
+</html>
