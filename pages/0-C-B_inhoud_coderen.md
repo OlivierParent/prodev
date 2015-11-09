@@ -3,9 +3,8 @@ Inhoud
 
 ### Coderen
 
- - HTML
+ - [HTML](http://www.w3.org/html/)
  - [Markdown](https://daringfireball.net/projects/markdown/)
- - CSS 
+ - [CSS](http://www.w3.org/css/) 
  - [Sass](http://sass-lang.com)
- - [LESS](http://lesscss.org)
  - …

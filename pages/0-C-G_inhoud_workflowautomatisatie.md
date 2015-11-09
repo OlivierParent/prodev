@@ -3,8 +3,9 @@ Inhoud
 
 ### Workflowautomatisatie
 
- - [Node.js](https://nodejs.org)
+ - [Node.js](https://nodejs.org) en [npm](https://www.npmjs.com)
  - [Bower](http://bower.io)
- - [Grunt](http://gruntjs.com)
+ - [Browsersync](http://www.browsersync.io)
  - [Gulp](http://gulpjs.com)
+ - [PhantomJS](http://phantomjs.org)
  - …

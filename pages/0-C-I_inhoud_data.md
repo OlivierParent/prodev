@@ -3,14 +3,18 @@ Inhoud
 
 ### Dataformaten
  
-  - [XML](http://www.w3.org/XML/)
+  - [BSON](http://bsonspec.org)
   - [JSON](http://www.json.org)
+  - [XML](http://www.w3.org/XML/)
   - [YAML](http://yaml.org)
   - …
 
+### Datamodeling
+
+ - EER-diagram
+
 ### Databasemanagementsystemen
 
-  - Databasemodeling
   - [MySQL](http://mysql.com)
   - [Microsoft SQL Server](www.microsoft.com/SQLServer‎)
   - [SQLite](http://sqlite.org)

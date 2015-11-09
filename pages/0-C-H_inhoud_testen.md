@@ -5,5 +5,5 @@ Inhoud
 
  - Unit Testing
  - Functional Testing
- - Test-Driven Development
- - Behaviour-Driven Development
+ - TDD *(Test-Driven Development)*
+ - BDD *(Behaviour-Driven Development)*
