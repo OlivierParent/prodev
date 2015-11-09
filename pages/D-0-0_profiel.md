@@ -1,5 +1,5 @@
-Profiel
-=======
+Ideaal Profiel
+--------------
 
 Student proDEV:
 
