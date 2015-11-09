@@ -4,9 +4,11 @@ Jobs
 ### Maar ook
 
  - Information Architect
- - Projectmanager
+ - Project Manager
+ - UI Designer
  - UX Designer
- - QA Tester
+ - QA Test Engineer
+ - Database Designer
  - Database Developer
  - Grafisch Ontwerper voor Digital Media
  - …
