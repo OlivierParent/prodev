@@ -3,7 +3,7 @@ Multimediaproductie
 
 ### proDEV
 
-Professional Development:
+"Professional Development" van:
 
  - Websites
  - Nieuwe Media  

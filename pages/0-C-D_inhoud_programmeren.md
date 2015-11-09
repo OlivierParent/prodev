@@ -3,12 +3,12 @@ Inhoud
 
 ### Programmeren
 
- - JavaScript
+ - [JavaScript](http://www.ecmascript.org)
    - *'Vanilla'*
    - [Angular](http://angular.io)
    - [Ionic](http://ionicframework.com)
- - C#
-   - ASP.NET
+ - [C#](https://msdn.microsoft.com/en-us/library/ms228593.aspx)
+   - [ASP.NET](http://www.asp.net)
  - [PHP](http://php.net)
    - [Laravel](http://laravel.com)
    - [Symfony](http://symfony.com)
