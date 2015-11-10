@@ -12,5 +12,5 @@ Inhoud
 
 ### Datamodeling
 
- - EER-diagram
- - ORM
+ - <abbr title="Enhanced Entity-Relationship">EER</abbr>-diagram
+ - <abbr title="Object-Relational Mapper">ORM</abbr>

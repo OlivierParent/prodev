@@ -1,7 +1,7 @@
 Ideaal Profiel
 --------------
 
-Student proDEV:
+### Student proDEV is
 
  - **Creatief**  
    Bedenken van concepten en eigen ontwerpen maken.

@@ -1,7 +1,7 @@
 Derde Schijf
 ------------
 
-### MMP
+### Multimediaproductie
 
  - &nbsp;&nbsp;8sp [Bachelorproef MMP](https://bamaflexweb.arteveldehs.be/BMFUIDetailxOLOD.aspx?a=47452&b=5&c=1)  
    <small>Vrije keuze binnen MMP-domein</small>

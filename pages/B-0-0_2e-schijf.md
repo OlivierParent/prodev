@@ -1,6 +1,7 @@
 Tweede Schijf
 -------------
-### MMP
+
+### Multimediaproductie
  
  - 4sp [Crossmedia Publishing I](https://bamaflexweb.arteveldehs.be/BMFUIDetailxOLOD.aspx?a=47498&b=5&c=1)  
    <small>Basis PHP, MySQL JavaScript, Servers, Basis WordPress</small>

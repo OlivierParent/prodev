@@ -4,7 +4,7 @@ Inhoud
 ### Programmeren
 
  - [JavaScript](http://www.ecmascript.org)
-   - *'Vanilla'*
+   - *'Vanilla'* (JavaScript zonder framework)
    - [Angular](http://angular.io)
    - [Ionic](http://ionicframework.com)
  - [C#](https://msdn.microsoft.com/en-us/library/ms228593.aspx)
